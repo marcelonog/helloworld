@@ -6,4 +6,4 @@ options = st.multiselect(
      'What is your favorite color?',
      (['Green','Yellow', 'Red', 'Blue'],['Yellow','Red'])
 
-     st.write('You selected: ', options)
+st.write('You selected: ', options)
